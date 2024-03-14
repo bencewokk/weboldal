@@ -1,6 +1,6 @@
 [
-    {"name":"Ken Carson"},
-    {"name":"Playboi Carti"},
-    {"name":"Destroy Lonely"},
-    {"name":"Rich Amiri"}
+    {"name":"Ken Carson","pictureId":"KC"},
+    {"name":"Playboi Carti","pictureId":"PC"},
+    {"name":"Destroy Lonely","pictureId":"DL"},
+    {"name":"Rich Amiri","pictureId":"RA"}
 ]

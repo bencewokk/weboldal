@@ -18,6 +18,13 @@
             src: url('{{ asset("font/SWEET_REVENGE.otf") }}') format('opentype'); /* Path to the font file */
         }
 
+        body {
+            background-image: url('opiumhome.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+        }
+
         
     </style>
 </head>

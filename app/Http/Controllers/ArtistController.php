@@ -11,17 +11,12 @@ use Illuminate\Support\Facades\Response;
 class ArtistController extends Controller
 {
 
-    public function getRandomArtist(Request $request)
+    public function showRandomArtist()
     {
-        $allArtists = Artist::all();
-        
-        if ($allArtists->isEmpty()) {
-            return view('index', ['randomArtist' => 'No artists found']);
-        }
-        
-        $randomArtist = $allArtists->random()->name; // Assuming the artist name is stored in a column called 'name'
-        
-        return view('artists.index', ['randomArtist' => $randomArtist]);
+        // Retrieve a random artist from the database
+        $randomArtist = Artist::inRandomOrder()->first();
+
+        return view('home', ['randomArtistId' => $randomArtist->id]);
     }
     public function createFromJson(Request $request)
     {
@@ -30,6 +25,8 @@ class ArtistController extends Controller
         foreach ($data as $artistData) {
             Artist::create([
                 'name' => $artistData['name'],
+                'pictureId'=> $artistData['pictureId'],
+
             ]);
         }
 
