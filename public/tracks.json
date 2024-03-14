@@ -1,0 +1,429 @@
+[
+    {
+        "name": "Long Time",
+        "album": "Die Lit",
+        "track_id": 0,
+        "album_id": 1
+    },
+    {
+        "name": "R.I.P.",
+        "album": "Die Lit",
+        "track_id": 1,
+        "album_id": 1
+    },
+    {
+        "name": "Lean 4 Real (feat. Skepta)",
+        "album": "Die Lit",
+        "track_id": 2,
+        "album_id": 1
+    },
+    {
+        "name": "Shoota (feat. Lil Uzi Vert)",
+        "album": "Die Lit",
+        "track_id": 3,
+        "album_id": 1
+    },
+    {
+        "name": "Mileage (feat. Chief Keef)",
+        "album": "Die Lit",
+        "track_id": 4,
+        "album_id": 1
+    },
+    {
+        "name": "FlatBed Freestyle",
+        "album": "Die Lit",
+        "track_id": 5,
+        "album_id": 1
+    },
+    {
+        "name": "No Time (feat. Gunna)",
+        "album": "Die Lit",
+        "track_id": 6,
+        "album_id": 1
+    },
+    {
+        "name": "Middle of the Summer (feat. Red Coldhearted)",
+        "album": "Die Lit",
+        "track_id": 7,
+        "album_id": 1
+    },
+    {
+        "name": "Choppa Won't Miss (feat. Young Thug)",
+        "album": "Die Lit",
+        "track_id": 8,
+        "album_id": 1
+    },
+    {
+        "name": "Poke It Out (feat. Nicki Minaj)",
+        "album": "Die Lit",
+        "track_id": 9,
+        "album_id": 1
+    },
+    {
+        "name": "Flex (feat. Pi'erre Bourne)",
+        "album": "Die Lit",
+        "track_id": 10,
+        "album_id": 1
+    },
+    {
+        "name": "Right Now (feat. Pi'erre Bourne)",
+        "album": "Die Lit",
+        "track_id": 11,
+        "album_id": 1
+    },
+    {
+        "name": "Fell in Luv (feat. Bryson Tiller)",
+        "album": "Die Lit",
+        "track_id": 12,
+        "album_id": 1
+    },
+    {
+        "name": "Foreign",
+        "album": "Die Lit",
+        "track_id": 13,
+        "album_id": 1
+    },
+    {
+        "name": "Pull Up",
+        "album": "Die Lit",
+        "track_id": 14,
+        "album_id": 1
+    },
+    {
+        "name": "Old Money",
+        "album": "Die Lit",
+        "track_id": 15,
+        "album_id": 1
+    },
+    {
+        "name": "Love Hurts (feat. Travis Scott)",
+        "album": "Die Lit",
+        "track_id": 16,
+        "album_id": 1
+    },
+    {
+        "name": "Location",
+        "album": "Playboi Carti",
+        "track_id": 0,
+        "album_id": 2
+    },
+    {
+        "name": "Magnolia",
+        "album": "Playboi Carti",
+        "track_id": 1,
+        "album_id": 2
+    },
+    {
+        "name": "Lookin (feat. Lil Uzi Vert)",
+        "album": "Playboi Carti",
+        "track_id": 2,
+        "album_id": 2
+    },
+    {
+        "name": "wokeuplikethis* (feat. Lil Uzi Vert)",
+        "album": "Playboi Carti",
+        "track_id": 3,
+        "album_id": 2
+    },
+    {
+        "name": "Let It Go",
+        "album": "Playboi Carti",
+        "track_id": 4,
+        "album_id": 2
+    },
+    {
+        "name": "Half & Half",
+        "album": "Playboi Carti",
+        "track_id": 5,
+        "album_id": 2
+    },
+    {
+        "name": "New Choppa (feat. A$AP Rocky)",
+        "album": "Playboi Carti",
+        "track_id": 6,
+        "album_id": 2
+    },
+    {
+        "name": "Other Shit",
+        "album": "Playboi Carti",
+        "track_id": 7,
+        "album_id": 2
+    },
+    {
+        "name": "No. 9",
+        "album": "Playboi Carti",
+        "track_id": 8,
+        "album_id": 2
+    },
+    {
+        "name": "dothatshit!",
+        "album": "Playboi Carti",
+        "track_id": 9,
+        "album_id": 2
+    },
+    {
+        "name": "Lame Niggaz",
+        "album": "Playboi Carti",
+        "track_id": 10,
+        "album_id": 2
+    },
+    {
+        "name": "Yah Mean",
+        "album": "Playboi Carti",
+        "track_id": 11,
+        "album_id": 2
+    },
+    {
+        "name": "Flex (feat. Leven Kali)",
+        "album": "Playboi Carti",
+        "track_id": 12,
+        "album_id": 2
+    },
+    {
+        "name": "Kelly K",
+        "album": "Playboi Carti",
+        "track_id": 13,
+        "album_id": 2
+    },
+    {
+        "name": "Had 2",
+        "album": "Playboi Carti",
+        "track_id": 14,
+        "album_id": 2
+    },
+    {
+        "name": "Lean 4 Real (feat. Skepta)",
+        "album": "Playboi Carti",
+        "track_id": 15,
+        "album_id": 2
+    },
+    {
+        "name": "Rockstar Made",
+        "album": "Whole Lotta Red",
+        "track_id": 0,
+        "album_id": 3
+    },
+    {
+        "name": "Go2DaMoon (feat. Kanye West)",
+        "album": "Whole Lotta Red",
+        "track_id": 1,
+        "album_id": 3
+    },
+    {
+        "name": "Stop Breathing",
+        "album": "Whole Lotta Red",
+        "track_id": 2,
+        "album_id": 3
+    },
+    {
+        "name": "Beno!",
+        "album": "Whole Lotta Red",
+        "track_id": 3,
+        "album_id": 3
+    },
+    {
+        "name": "JumpOutTheHouse",
+        "album": "Whole Lotta Red",
+        "track_id": 4,
+        "album_id": 3
+    },
+    {
+        "name": "M3tamorphosis (feat. Kid Cudi)",
+        "album": "Whole Lotta Red",
+        "track_id": 5,
+        "album_id": 3
+    },
+    {
+        "name": "Slayer",
+        "album": "Whole Lotta Red",
+        "track_id": 6,
+        "album_id": 3
+    },
+    {
+        "name": "No Sl33p",
+        "album": "Whole Lotta Red",
+        "track_id": 7,
+        "album_id": 3
+    },
+    {
+        "name": "New Tank",
+        "album": "Whole Lotta Red",
+        "track_id": 8,
+        "album_id": 3
+    },
+    {
+        "name": "Teen X (feat. Future)",
+        "album": "Whole Lotta Red",
+        "track_id": 9,
+        "album_id": 3
+    },
+    {
+        "name": "Meh",
+        "album": "Whole Lotta Red",
+        "track_id": 10,
+        "album_id": 3
+    },
+    {
+        "name": "Vamp Anthem",
+        "album": "Whole Lotta Red",
+        "track_id": 11,
+        "album_id": 3
+    },
+    {
+        "name": "New N3on",
+        "album": "Whole Lotta Red",
+        "track_id": 12,
+        "album_id": 3
+    },
+    {
+        "name": "Control",
+        "album": "Whole Lotta Red",
+        "track_id": 13,
+        "album_id": 3
+    },
+    {
+        "name": "Punk Monk",
+        "album": "Whole Lotta Red",
+        "track_id": 14,
+        "album_id": 3
+    },
+    {
+        "name": "On That Time",
+        "album": "Whole Lotta Red",
+        "track_id": 15,
+        "album_id": 3
+    },
+    {
+        "name": "King Vamp",
+        "album": "Whole Lotta Red",
+        "track_id": 16,
+        "album_id": 3
+    },
+    {
+        "name": "Place",
+        "album": "Whole Lotta Red",
+        "track_id": 17,
+        "album_id": 3
+    },
+    {
+        "name": "Sky",
+        "album": "Whole Lotta Red",
+        "track_id": 18,
+        "album_id": 3
+    },
+    {
+        "name": "Over",
+        "album": "Whole Lotta Red",
+        "track_id": 19,
+        "album_id": 3
+    },
+    {
+        "name": "Green Room",
+        "album": "A Great Chaos",
+        "track_id": 0,
+        "album_id": 4
+    },
+    {
+        "name": "Jennifer's Body",
+        "album": "A Great Chaos",
+        "track_id": 1,
+        "album_id": 4
+    },
+    {
+        "name": "Fighting My Demons",
+        "album": "A Great Chaos",
+        "track_id": 2,
+        "album_id": 4
+    },
+    {
+        "name": "Singapore(Feat. Destroy Lonely)",
+        "album": "A Great Chaos",
+        "track_id": 3,
+        "album_id": 4
+    },
+    {
+        "name": "Lose It",
+        "album": "A Great Chaos",
+        "track_id": 4,
+        "album_id": 4
+    },
+    {
+        "name": "Hardcore",
+        "album": "A Great Chaos",
+        "track_id": 5,
+        "album_id": 4
+    },
+    {
+        "name": "Me N My Kup",
+        "album": "A Great Chaos",
+        "track_id": 6,
+        "album_id": 5
+    },
+    {
+        "name": "It's Over",
+        "album": "A Great Chaos",
+        "track_id": 7,
+        "album_id": 5
+    },
+    {
+        "name": "Succubus",
+        "album": "A Great Chaos",
+        "track_id": 8,
+        "album_id": 5
+    },
+    {
+        "name": "Paranoid(feat. Destroy LOnely)",
+        "album": "A Great Chaos",
+        "track_id": 9,
+        "album_id": 5
+    },
+    {
+        "name": "Pots",
+        "album": "A Great Chaos",
+        "track_id": 10,
+        "album_id": 5
+    },
+    {
+        "name": "Like This(feat. Lil Uzi Vert, Destroy Lonely)",
+        "album": "A Great Chaos",
+        "track_id": 11,
+        "album_id": 5
+    },
+    {
+        "name": "Overtime",
+        "album": "A Great Chaos",
+        "track_id": 12,
+        "album_id": 5
+    },
+    {
+        "name": "Vampire Hour",
+        "album": "A Great Chaos",
+        "track_id": 13,
+        "album_id": 5
+    },
+    {
+        "name": "Nightcore",
+        "album": "A Great Chaos",
+        "track_id": 14,
+        "album_id": 5
+    },
+    {
+        "name": "Nightcore 2",
+        "album": "A Great Chaos",
+        "track_id": 15,
+        "album_id": 5
+    },
+    {
+        "name": "Rockstar Lifestyle",
+        "album": "A Great Chaos",
+        "track_id": 16,
+        "album_id": 5
+    },
+    {
+        "name": "i need u",
+        "album": "A Great Chaos",
+        "track_id": 17,
+        "album_id": 5
+    }
+]
+    
