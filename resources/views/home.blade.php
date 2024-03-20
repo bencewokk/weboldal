@@ -11,24 +11,21 @@
         body {
             background-color: black;
             font-family: 'CustomFont', sans-serif; /* Applying the custom font to the body */
+            background-image: url('{{ asset("images/{$randomArtistId}.png") }}');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            background-position: center;
         }
 
         @font-face {
             font-family: 'CustomFont'; /* Declaring the custom font */
             src: url('{{ asset("font/SWEET_REVENGE.otf") }}') format('opentype'); /* Path to the font file */
         }
-
-        body {
-            background-image: url('opiumhome.jpg');
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-            background-size: 100% 100%;
-        }
-
-        
     </style>
 </head>
 <body>
     @include('layouts.header')
+    
 </body>
 </html>

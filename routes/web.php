@@ -20,10 +20,7 @@ Route::get('/import', function () {
     return redirect('home')->with('success', 'Data import completed successfully.');
 });
 
-Route::get('/home', function () {
-    return view('home');
-});
+Route::get('/home', [ArtistController::class, 'showRandomArtist']);;
 
 
-
-Route::get('/artists', [ArtistController::class, 'getRandomArtist']);
+Route::get('/artists', [ArtistController::class, 'showRandomArtist']);

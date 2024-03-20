@@ -16,7 +16,8 @@ class ArtistController extends Controller
         // Retrieve a random artist from the database
         $randomArtist = Artist::inRandomOrder()->first();
 
-        return view('home', ['randomArtistId' => $randomArtist->id]);
+        // Pass the random artist ID to the 'home' view and return the view
+        return view('home', ['randomArtistId' => $randomArtist->pictureId]);
     }
     public function createFromJson(Request $request)
     {

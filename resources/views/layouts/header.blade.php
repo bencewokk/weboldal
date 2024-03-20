@@ -10,12 +10,17 @@
     <style>
         .container {
             display: flex;
-            align-items: center;
+            align-items: fixed;
+            background-color: black;
+        }
+
+        .homologo {
+            align-items:baseline;
         }
 
         .tabsfirst {
+            padding-left: 170px;
             font-size: 35px;
-            padding-left: 270px;
             color: azure;
             cursor: pointer; /* Add cursor pointer for indicating clickability */
         }
@@ -25,6 +30,7 @@
             padding-left: 100px;
             color: azure;
             cursor: pointer; /* Add cursor pointer for indicating clickability */
+
         }
 
         
@@ -36,18 +42,8 @@
         <div class="homelogo">
             <img src="{{ asset('images/opiumhome.png') }}" alt="Opium Home" height="30">
         </div>
-        <div class="tabsfirst" onclick="redirectToArtists()">ARTISTS</div> <!-- Added onclick attribute -->
-    
         <div class="tabs">ABOUT US</div>
-        <div class="tabs">CONTACTS</div>
+        <div class="tabs"">CONTACTS</div>
     </div>
-    
-    <script>
-        // Function to redirect to the all artists page
-        function redirectToArtists() {
-            // Replace 'all-artists.html' with the actual URL of your all artists page
-            window.location.href = 'artists';
-        }
-    </script>
 </body>
 </html>
